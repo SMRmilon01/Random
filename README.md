@@ -1,8 +1,5 @@
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Your.old.father.luQm4N0)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
 
-
-
-<h1 align="center"> [MR.AKING]</h1>
+<h1 align="center"> [SMR.MILON]</h1>
 
 <h2 align="center">  FB RABDOM CLONING TOOL FREE</h2>
 
@@ -21,11 +18,11 @@
 - `pip install lolcat`
 - `pip install bs4`
 - `rm -rf Random`
-- `git clone https://github.com/AKING110/Random.git`
+- `git clone https://github.com/SMRmilon01/Random.git`
 - `cd Random`
-- `python AKING.py`
+- `python MILON.py`
      
 
 
  ```Note : This Tools is Free Enjoy Free And Share With Friends ```</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
+ 
